@@ -2,10 +2,10 @@
   "resultcode": "200",
   "reason": "查询成功",
   "result": {
-      "account": "zyw",
-      "password": "11111",
-      "time":"2024.08.09",
-      "url":"https://cmccsign.com/api/s/"
+      "account": "9xet3i0oBm0u8ohQSMc9UA==",
+      "password": "pgSzrMZYVlNTyp2Tp3gyrQ==",
+      "time":"Ezq+PCdvef3WNpztlHkwSQ==",
+      "url":"zKj/siES8qUF7Rb+df/NsHGZnugzegywAYHMRyoHZag="
   },
   "error_code": 0
 }
